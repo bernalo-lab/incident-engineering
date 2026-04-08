@@ -19,7 +19,8 @@ Battle-tested CloudWatch Logs Insights queries and practical failure investigati
 
 ## Error Interpretation
 
-### [explain-error] (https://bernalo-lab.github.io/explain-error/)
+### ExplainError API <a href="https://bernalo-lab.github.io/explain-error/" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(explain-error)</a>
+
 Structured error explanation with confidence and severity signals.
 Also includes API layer for ExplainError integrations and experimentation.
 
