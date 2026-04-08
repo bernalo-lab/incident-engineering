@@ -24,8 +24,10 @@ Battle-tested CloudWatch Logs Insights queries and practical failure investigati
 Structured error explanation with confidence and severity signals.
 Also includes API layer for ExplainError integrations and experimentation.
 
-### incident-dataset
+### ExplainError Calibration Dataset <a href="https://incident-dataset.onrender.com/dataset" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(incident-dataset)</a>
 Curated error and production failure examples used for calibration and analysis.
+
+You can submit a redacted incident example <a href="https://incident-dataset.onrender.com/submit" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">here</a> 
 
 ---
 
