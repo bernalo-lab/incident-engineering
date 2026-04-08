@@ -7,7 +7,7 @@ If you are an SRE, DevOps engineer, tester, platform engineer, or backend engine
 ---
 
 ## If you are new
-Read:
+**Read**:
 1. Repository Map
 2. Learning Path
 3. Production Failure Patterns
@@ -15,7 +15,7 @@ Read:
 ---
 
 ## If you want practical resources
-Go to:
+**Go to**:
 - incident-engineering-starter-kit
 - incident-engineering-pattern
 - explain-error
@@ -23,7 +23,7 @@ Go to:
 ---
 
 ## If you want interactive learning
-Go to:
+**Go to**:
 - explain-error-daily
 - incident-ladder
 
