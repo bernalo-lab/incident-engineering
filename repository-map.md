@@ -9,10 +9,10 @@ This page explains how the Incident Engineering ecosystem fits together.
 ### Production Failure Patterns <a href="https://github.com/bernalo-lab/production-failure-patterns" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(production-failure-patterns)</a>
 Library of real production failure patterns engineers encounter.
 
-### incident-engineering-starter-kit
+### Incident Engineering Starter Kit <a href="https://github.com/bernalo-lab/production-failure-patterns" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(incident-engineering-starter-kit)</a>
 Starter resources for people learning incident analysis and response.
 
-### incident-engineering-pattern
+### Incident Engineering Pattern <a href="https://github.com/bernalo-lab/incident-engineering-patterns" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(incident-engineering-pattern)</a>
 Battle-tested CloudWatch Logs Insights queries and practical failure investigation patterns.
 
 ---
