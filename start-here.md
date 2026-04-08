@@ -30,4 +30,4 @@ Go to:
 ---
 
 ## If you want to contribute
-- [See contribution](./CONTRIBUTING.md)
+- [See contribution](./contributing.md)
