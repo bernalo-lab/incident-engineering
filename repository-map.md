@@ -41,5 +41,5 @@ Interactive game for understanding how systems fail.
 
 ## Commercial / Pilot Layer
 
-### ExplainError Pilot programme <a href="https://www.incidentladder.com/" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(explainerror-pilot)</a>
+### ExplainError Pilot programme <a href="https://explainerror-pilot.vercel.app/" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(explainerror-pilot)</a>
 Pilot-facing landing page for introducing ExplainError to teams and buyers.
