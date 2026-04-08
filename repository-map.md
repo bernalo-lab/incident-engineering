@@ -31,10 +31,10 @@ Curated error and production failure examples used for calibration and analysis.
 
 ## Interactive Learning
 
-### explain-error-daily
+### ExplainError Daily <a href="https://www.explainerror.dev/" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(explain-error-daily)</a>
 Daily challenge game for interpreting production-style failures.
 
-### incident-ladder
+### Incident Ladder <a href="https://www.incidentladder.com/" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">(incident-ladder)</a>
 Interactive game for understanding how systems fail.
 
 ---
